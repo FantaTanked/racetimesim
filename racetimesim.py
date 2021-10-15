@@ -1,5 +1,3 @@
-# Python program to illustrate a stop watch
-# using Tkinter
 #importing the required libraries
 import tkinter as Tkinter
 from datetime import datetime
